@@ -6,14 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Juan Pablo Gonzalez
-email: me@juanpablogonzalez.info
+#title: Juan Pablo Gonzalez
+#email: me@juanpablogonzalez.info
 description: > # this means to ignore newlines until "baseurl:"
- Juan Pablo Gonzalez Personal
+ Juan Pablo Gonzalez Personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "juanpablogonzalez.info" # the base hostname & protocol for your site
 twitter_username: JPG_MX
 github_username:  JPGMX
+linkedin_username: jpgonzal
 
 # Build settings
 markdown: kramdown
+encoding: utf-8
