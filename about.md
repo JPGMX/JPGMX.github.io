@@ -7,7 +7,7 @@ permalink: /about/
 <p>
 Extensive experience in web development and web technologies, search engine optimization,
 Agile methodology, and software development lifecycle, bringing more than 13 years in
-software design, development and integration. Advanced knowledge of Ruby on Rails 
+software design, development and integration. Advanced knowledge of Ruby on Rails. 
 Well-spoken, energetic, confident, and a sociable person. wide breadth of experience that
 has given me the versatility to complete a number of tasks with confidence.
 Results-oriented software engineering professional Analytical and detail-oriented.
