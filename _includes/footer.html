@@ -5,32 +5,34 @@
     <h2 class="footer-heading">{{ site.title }}</h2>
 
      <div class="footer-col footer-col-1">
-        <ul class="social-media-list">
+        <table class="social-media-list">
+          <tr>
           {% if site.github_username %}
-          <li>
-            <a href="https://github.com/{{ site.github_username }}">
-            <i class="fa fa-github"></i> GitHub
-            </a>
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            <a href="https://twitter.com/{{ site.twitter_username }}">
-              <i class="fa fa-twitter"></i> Twitter
-            </a>
-          </li>
-          {% endif %}
-          
-          {% if site.linkedin_username %}
-          <li>
-            <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-            <i class="fa fa-linkedin"></i> LinkedIn
-            </a>
-          </li>
-{% endif %}
-
-        </ul>
+            <td>
+              <a href="https://github.com/{{ site.github_username }}">
+                <i class="fa fa-github"></i> GitHub
+              </a>
+            </td>
+            <td>&nbsp;</td>
+           {% endif %}
+           {% if site.twitter_username %}
+            <td>
+             <a href="https://twitter.com/{{ site.twitter_username }}">
+                <i class="fa fa-twitter"></i> Twitter
+             </a>
+            </td>
+            <td>&nbsp;</td>
+           {% endif %}
+           {% if site.linkedin_username %}
+            <td>
+              <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+                <i class="fa fa-linkedin"></i> LinkedIn
+              </a>
+            </td>
+           {% endif %}
+          </tr>
+        </table>
+       
       </div>
 <!--
  <div class="footer-col-wrapper">
@@ -41,9 +43,7 @@
         </ul>
       </div>
 -->
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
+
     </div>
 
   </div>
