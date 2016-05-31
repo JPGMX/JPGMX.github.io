@@ -16,4 +16,4 @@ design to implementation to integration.</p>
 
 <h1>Personally</h1>
 <p>36 years old, Married, father of 2 boys Dallas Cowboys fan since 1992, Movie lover, I think
-the books we read to our children should count to our "Books I've read" count.</p>
+the books we read to our children should count to our "Books I've read" count.Sometimes y amaze myself by the amount of sports data I can recall by leaving ESPN on background. I am also a podcast aficionado, foodie, real life problem solver (my own mostly). I was born in Mexico in Nogales,Sonora I currently live in Kirkland Washington and I love it up here!</p>
